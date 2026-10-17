@@ -2,8 +2,7 @@
 
 Repositorio con las actividades desarrolladas para la asignatura **Machine Learning I** de la **Maestría en Ciencia de Datos e Inteligencia Artificial** de la **Universidad de Investigación y Desarrollo (UDI)**.
 
-## Autor
-
+## Autor 
 Jaime Alberto Chica Betancourt
 
 ## Actividades
